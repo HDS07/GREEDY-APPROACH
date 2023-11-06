@@ -1,3 +1,6 @@
+/*Author- Harshdeep shakya
+ Date: 06/11/2023 */
+
 #include<stdio.h>
 float knapsack(float profit[],float weight[],float pbw[],float M,int n){
     float p=0;

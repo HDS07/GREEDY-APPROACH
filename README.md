@@ -1,1 +1,1 @@
-In this we can see sorting the algorithm using greedy approach
+In this we can see all the problem using greedy approach
